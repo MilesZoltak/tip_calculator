@@ -1,4 +1,4 @@
-# tip_calculator
+# Tip Calculator
 
 This is my first solo flutter app!
 
