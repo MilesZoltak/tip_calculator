@@ -1,16 +1,12 @@
 # tip_calculator
 
-First solo flutter project
+This is my first solo flutter app!
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+There's really not much to it.  Just add the base amount, use the slider to choose between 0 and 30% tip, and you'll see your tip amount and total amount automatically displayed!
 
-A few resources to get you started if this is your first Flutter project:
+As a little bonus an emoji will appear to show just how exciting your tip is.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://imgur.com/bulmxXz.gif" alt="Tip Calculator Walkthrough"/>
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
